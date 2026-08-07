@@ -1,0 +1,9 @@
+{
+ "transfer|0.5": {"t_all": 20, "t_ok": 20, "u_ok": 21, "o_ok": 12},
+ "transfer|1.0": {"t_all": 22, "t_ok": 22, "u_ok": 16, "o_ok": 15},
+ "transfer|2.0": {"t_all": 23, "t_ok": 23, "u_ok": 15, "o_ok": 15},
+ "transfer|4.0": {"t_all": 22, "t_ok": 22, "u_ok": 11, "o_ok": 20},
+ "transfer|8.0": {"t_all": 0, "t_ok": 0, "u_ok": 0, "o_ok": 53},
+ "clamp|0.5": {"t_all": 1, "t_ok": 0, "u_ok": 0, "o_ok": 53},
+ "n_items": 90, "n_base_ok": 53
+}
